@@ -1,6 +1,5 @@
 {
   "name": "client",
-  "homepage": "https://simple-demo-app.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://simple-demo-app.onrender.com:10000",
+  "proxy": "http://localhost:3001",
   "eslintConfig": {
     "extends": [
       "react-app",
